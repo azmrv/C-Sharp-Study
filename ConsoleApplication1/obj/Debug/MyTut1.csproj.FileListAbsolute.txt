@@ -1,0 +1,8 @@
+c:\users\az\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+c:\users\az\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+c:\users\az\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+c:\users\az\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+c:\users\az\documents\visual studio 2013\Projects\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\AZ\Documents\Visual Studio 2013\Projects\MyStudy\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\AZ\Documents\Visual Studio 2013\Projects\MyStudy\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\AZ\Documents\Visual Studio 2013\Projects\MyStudy\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
